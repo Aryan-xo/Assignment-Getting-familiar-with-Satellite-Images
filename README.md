@@ -24,7 +24,7 @@ Appropriate machine learning algorithms are chosen for crop growth stage classif
 
 ### Evaluation
 
-The model's performance is evaluated using metrics such as accuracy, precision, recall, F1 score, silhouette score, and Davies-Bouldin index. These metrics provide insights into the model's ability to accurately classify crop growth stages and its robustness.
+The model's performance is evaluated using metrics such as accuracy, precision, silhouette score, and Davies-Bouldin index. These metrics provide insights into the model's ability to accurately classify crop growth stages and its robustness.
 
 For code implementation and further details, refer to the provided code files in the repository.
 
