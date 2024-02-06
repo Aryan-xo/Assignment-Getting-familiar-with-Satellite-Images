@@ -1,7 +1,5 @@
 # Terrastack: Satellite Agri-Modeling
 
-![Terrastack Logo](https://placehold.it/200x100)
-
 ## Overview
 
 Terrastack is a machine learning project aimed at classifying the growth stages of crops using satellite imagery data. The primary objective is to develop a model that accurately categorizes crop growth stages into three classes: 'no_crop', 'growing', and 'lush'. The dataset comprises clipped raster images for 569 geographical grid cells (GIDs) spanning 12 agricultural months. 
